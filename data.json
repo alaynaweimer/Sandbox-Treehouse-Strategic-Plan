@@ -1,0 +1,516 @@
+{
+  "lastUpdated": "April 2026",
+  "pillars": [
+    {
+      "num": 1,
+      "title": "Timely access to care",
+      "goal": "Increase access to PT, OT, and behavioral health therapy so children receive care without long waits.",
+      "tactics": [
+        {
+          "text": "Open Pole Creek Ranch clinic space",
+          "status": "Done",
+          "lead": "Admin",
+          "quarter": "2024 Q2",
+          "notes": ""
+        },
+        {
+          "text": "Open Sisters Community Center / ASPEN program",
+          "status": "Done",
+          "lead": "Admin",
+          "quarter": "2025 Q2",
+          "notes": ""
+        },
+        {
+          "text": "Complete McVey modular space",
+          "status": "Done",
+          "lead": "Admin",
+          "quarter": "2024 Q1",
+          "notes": ""
+        },
+        {
+          "text": "Convert garage to two treatment spaces",
+          "status": "Done",
+          "lead": "Admin",
+          "quarter": "2025 Q2",
+          "notes": ""
+        },
+        {
+          "text": "ASPEN screener for co-treat appropriateness",
+          "status": "Done",
+          "lead": "Shawn",
+          "quarter": "2025 Q2",
+          "notes": ""
+        },
+        {
+          "text": "Use screener to prioritize wait list",
+          "status": "Done",
+          "lead": "Shawn",
+          "quarter": "2026 Q1",
+          "notes": ""
+        },
+        {
+          "text": "Concrete path around McVey building",
+          "status": "Done",
+          "lead": "Admin",
+          "quarter": "2025 Q3",
+          "notes": ""
+        },
+        {
+          "text": "Clinic-wide screening for proper discipline match",
+          "status": "In progress",
+          "lead": "Christina",
+          "quarter": "2026 Q2",
+          "notes": ""
+        },
+        {
+          "text": "SOP for screenings & wait list management",
+          "status": "In progress",
+          "lead": "Christina",
+          "quarter": "2026 Q3",
+          "notes": ""
+        },
+        {
+          "text": "Increase number of providers / therapists",
+          "status": "In progress",
+          "lead": "Alayna",
+          "quarter": "Ongoing",
+          "notes": ""
+        },
+        {
+          "text": "Determine staffing needs to eliminate wait list",
+          "status": "Upcoming",
+          "lead": "Admin",
+          "quarter": "2026 Q2",
+          "notes": ""
+        },
+        {
+          "text": "Increase admin support for visit operations",
+          "status": "Upcoming",
+          "lead": "Admin",
+          "quarter": "2025 Q4",
+          "notes": ""
+        },
+        {
+          "text": "Annual toy / equipment exchange",
+          "status": "Upcoming",
+          "lead": "Stacey",
+          "quarter": "Annual",
+          "notes": ""
+        },
+        {
+          "text": "QMHA support - home community telehealth",
+          "status": "Upcoming",
+          "lead": "—",
+          "quarter": "Ongoing",
+          "notes": ""
+        },
+        {
+          "text": "ASPEN episode-of-care programming",
+          "status": "Upcoming",
+          "lead": "—",
+          "quarter": "2025 Q3",
+          "notes": ""
+        },
+        {
+          "text": "Peer support workers contact families of new IEs",
+          "status": "Upcoming",
+          "lead": "—",
+          "quarter": "2026 Q3",
+          "notes": ""
+        },
+        {
+          "text": "Create Discharge Guide",
+          "status": "Upcoming",
+          "lead": "Directors",
+          "quarter": "TBD",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "title": "Supported families & community",
+      "goal": "Ensure families have access to high-quality, coordinated care and resources across all of their needs.",
+      "tactics": [
+        {
+          "text": "Identify ASPEN team staffing needs",
+          "status": "In progress",
+          "lead": "—",
+          "quarter": "2024 Q4",
+          "notes": ""
+        },
+        {
+          "text": "Define case management & peer support",
+          "status": "In progress",
+          "lead": "—",
+          "quarter": "2024 Q3",
+          "notes": ""
+        },
+        {
+          "text": "Educational opportunities for external partners",
+          "status": "In progress",
+          "lead": "—",
+          "quarter": "2025 Q3",
+          "notes": ""
+        },
+        {
+          "text": "Ongoing updates of community resources for families",
+          "status": "In progress",
+          "lead": "—",
+          "quarter": "Ongoing",
+          "notes": ""
+        },
+        {
+          "text": "Hire ASPEN team staff",
+          "status": "Done",
+          "lead": "—",
+          "quarter": "2025 Q2",
+          "notes": ""
+        },
+        {
+          "text": "Hire ASPEN Director to coordinate program",
+          "status": "Done",
+          "lead": "—",
+          "quarter": "2025 Q2",
+          "notes": ""
+        },
+        {
+          "text": "Hire case management team of 2-3",
+          "status": "Upcoming",
+          "lead": "—",
+          "quarter": "2025 Q2",
+          "notes": ""
+        },
+        {
+          "text": "Provide PATH and MAPS",
+          "status": "Upcoming",
+          "lead": "—",
+          "quarter": "TBD",
+          "notes": ""
+        },
+        {
+          "text": "Yearly caregiver survey to surface unmet needs",
+          "status": "Upcoming",
+          "lead": "—",
+          "quarter": "Annual",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "title": "Ideal therapeutic environments",
+      "goal": "Create more functional, accessible, and nurturing spaces for staff, therapists, families, and children.",
+      "tactics": [
+        {
+          "text": "Additional swings & seating at Billadeau",
+          "status": "Done",
+          "lead": "—",
+          "quarter": "2024 Q2",
+          "notes": ""
+        },
+        {
+          "text": "Hire pool management company",
+          "status": "In progress",
+          "lead": "—",
+          "quarter": "2025 Q1",
+          "notes": ""
+        },
+        {
+          "text": "Move BH to back of Billadeau clinic",
+          "status": "In progress",
+          "lead": "—",
+          "quarter": "2025 Q2",
+          "notes": ""
+        },
+        {
+          "text": "Accessible playground at McVey",
+          "status": "In progress",
+          "lead": "—",
+          "quarter": "2025 Q3",
+          "notes": ""
+        },
+        {
+          "text": "Accessible trail through McVey backyard",
+          "status": "Upcoming",
+          "lead": "—",
+          "quarter": "2025 Q3",
+          "notes": ""
+        },
+        {
+          "text": "Monthly upkeep checklist",
+          "status": "Upcoming",
+          "lead": "—",
+          "quarter": "TBD",
+          "notes": ""
+        },
+        {
+          "text": "Budget and plan for facility services",
+          "status": "Upcoming",
+          "lead": "—",
+          "quarter": "TBD",
+          "notes": ""
+        },
+        {
+          "text": "Develop facilities manager / handyman role",
+          "status": "Upcoming",
+          "lead": "—",
+          "quarter": "TBD",
+          "notes": ""
+        },
+        {
+          "text": "Soundproof / privacy assessment",
+          "status": "Upcoming",
+          "lead": "—",
+          "quarter": "TBD",
+          "notes": ""
+        },
+        {
+          "text": "Climbing / treehouse play structure at McVey",
+          "status": "Upcoming",
+          "lead": "—",
+          "quarter": "TBD",
+          "notes": ""
+        },
+        {
+          "text": "Organized storage for therapy tools",
+          "status": "Upcoming",
+          "lead": "—",
+          "quarter": "TBD",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "title": "Thriving organizational culture",
+      "goal": "Strengthen operations, processes, and culture so staff and therapists thrive at Treehouse.",
+      "tactics": [
+        {
+          "text": "Regular discipline-specific meetings",
+          "status": "Done",
+          "lead": "Directors",
+          "quarter": "Ongoing",
+          "notes": ""
+        },
+        {
+          "text": "Motivational Interviewing training for leadership",
+          "status": "Done",
+          "lead": "—",
+          "quarter": "2025 Q2",
+          "notes": ""
+        },
+        {
+          "text": "Leading People program for leadership team",
+          "status": "Done",
+          "lead": "—",
+          "quarter": "2024 Q1",
+          "notes": ""
+        },
+        {
+          "text": "Update website",
+          "status": "Done",
+          "lead": "—",
+          "quarter": "2025 Q2",
+          "notes": ""
+        },
+        {
+          "text": "Grant writer support for additional funding",
+          "status": "Done",
+          "lead": "—",
+          "quarter": "Ongoing",
+          "notes": ""
+        },
+        {
+          "text": "Not'Cho Grandma's Bingo Fundraiser",
+          "status": "Done",
+          "lead": "—",
+          "quarter": "2025 Q1",
+          "notes": ""
+        },
+        {
+          "text": "2x/yr therapist surveys",
+          "status": "In progress",
+          "lead": "—",
+          "quarter": "Bi-annual",
+          "notes": ""
+        },
+        {
+          "text": "Quarterly Director-therapist check-ins",
+          "status": "In progress",
+          "lead": "Directors",
+          "quarter": "Ongoing",
+          "notes": ""
+        },
+        {
+          "text": "Onsite CEU / training",
+          "status": "In progress",
+          "lead": "—",
+          "quarter": "Ongoing",
+          "notes": ""
+        },
+        {
+          "text": "Consistent social media updates",
+          "status": "In progress",
+          "lead": "—",
+          "quarter": "Ongoing",
+          "notes": ""
+        },
+        {
+          "text": "Summarized response to therapist surveys",
+          "status": "Upcoming",
+          "lead": "—",
+          "quarter": "2024 Q4",
+          "notes": ""
+        },
+        {
+          "text": "Leadership opportunities for therapists & staff",
+          "status": "Upcoming",
+          "lead": "—",
+          "quarter": "2024 Q2",
+          "notes": ""
+        },
+        {
+          "text": "Admin growth: marketing capacity",
+          "status": "Upcoming",
+          "lead": "—",
+          "quarter": "2025 Q4",
+          "notes": ""
+        },
+        {
+          "text": "Admin growth: fundraising capacity",
+          "status": "Upcoming",
+          "lead": "—",
+          "quarter": "2026 Q1",
+          "notes": ""
+        },
+        {
+          "text": "Admin growth: facilities management",
+          "status": "Upcoming",
+          "lead": "—",
+          "quarter": "2026 Q1",
+          "notes": ""
+        },
+        {
+          "text": "Director coordination of staff between clinics",
+          "status": "Upcoming",
+          "lead": "—",
+          "quarter": "TBD",
+          "notes": ""
+        },
+        {
+          "text": "Annual goal/course for each leader",
+          "status": "In progress",
+          "lead": "—",
+          "quarter": "Annual",
+          "notes": ""
+        },
+        {
+          "text": "Annual contract meetings for therapists",
+          "status": "In progress",
+          "lead": "—",
+          "quarter": "Annual",
+          "notes": ""
+        },
+        {
+          "text": "30/60/90 day reviews for hourly & admin staff",
+          "status": "Upcoming",
+          "lead": "—",
+          "quarter": "Ongoing",
+          "notes": ""
+        },
+        {
+          "text": "Additional annual fundraisers as needed",
+          "status": "In progress",
+          "lead": "—",
+          "quarter": "Annual",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "num": 5,
+      "title": "Board engagement & governance",
+      "goal": "Refine governance so the Board can effectively oversee and plan for Treehouse's long-term sustainability.",
+      "tactics": [
+        {
+          "text": "Calendar of board agenda topics",
+          "status": "In progress",
+          "lead": "—",
+          "quarter": "2024 Q4",
+          "notes": ""
+        },
+        {
+          "text": "Performance review process for ED",
+          "status": "In progress",
+          "lead": "—",
+          "quarter": "TBD",
+          "notes": ""
+        },
+        {
+          "text": "Conduct board self-assessment",
+          "status": "Upcoming",
+          "lead": "—",
+          "quarter": "TBD",
+          "notes": ""
+        },
+        {
+          "text": "Board skill set matrix & gap analysis",
+          "status": "Upcoming",
+          "lead": "—",
+          "quarter": "2026 Q1",
+          "notes": ""
+        },
+        {
+          "text": "Summary of assets and programs",
+          "status": "Upcoming",
+          "lead": "—",
+          "quarter": "2026 Q1",
+          "notes": ""
+        },
+        {
+          "text": "Summary of each board position",
+          "status": "Upcoming",
+          "lead": "—",
+          "quarter": "2024 Q4",
+          "notes": ""
+        },
+        {
+          "text": "Quarterly review of assets",
+          "status": "Upcoming",
+          "lead": "—",
+          "quarter": "2026 Q2",
+          "notes": ""
+        },
+        {
+          "text": "Review and update leadership positions",
+          "status": "Upcoming",
+          "lead": "—",
+          "quarter": "2024 Q4",
+          "notes": ""
+        },
+        {
+          "text": "Review board terms and term limits",
+          "status": "Upcoming",
+          "lead": "—",
+          "quarter": "2024 Q4",
+          "notes": ""
+        },
+        {
+          "text": "Document board orientation in P&P",
+          "status": "Upcoming",
+          "lead": "—",
+          "quarter": "2024 Q4",
+          "notes": ""
+        },
+        {
+          "text": "Orient new board members using process",
+          "status": "Upcoming",
+          "lead": "—",
+          "quarter": "Ongoing",
+          "notes": ""
+        }
+      ]
+    }
+  ]
+}
